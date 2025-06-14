@@ -1,2 +1,2 @@
 # camena
-CA MENA repository
+MT repository
